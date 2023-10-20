@@ -27,10 +27,5 @@ spec:
       containers:
         - image: soufiane22/myapp:1.0
           name: myapp
-          ports:
-            - containerPort: 80
-              hostPort: 8080
-              protocol: TCP
-          resources: {}
       restartPolicy: Always
 status: {}
