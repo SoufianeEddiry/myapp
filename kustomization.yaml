@@ -6,5 +6,5 @@ resources:
 - k8s/myapp-service.yaml
 
 images:
-- name: soufiane22/myapp # Replace with your actual container name
+- name: myapp # Replace with your actual container name
   newTag: 1.0
