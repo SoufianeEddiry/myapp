@@ -1,0 +1,3 @@
+kustomize:
+  images:
+  - soufiane22/myapp:3.0
