@@ -11,5 +11,4 @@ spec:
       targetPort: 80
   selector:
     io.kompose.service: myapp
-  type: clusterIP
     
