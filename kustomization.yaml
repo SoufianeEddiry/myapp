@@ -4,3 +4,7 @@ kind: Kustomization
 resources:
 - k8s/myapp-deployment.yaml
 - k8s/myapp-service.yaml
+
+images:
+- name: soufiane22/myapp # Replace with your actual container name
+  newTag: 1.0
