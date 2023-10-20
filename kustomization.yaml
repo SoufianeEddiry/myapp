@@ -7,4 +7,4 @@ resources:
 
 images:
 - name: myapp # Replace with your actual container name
-  newTag: 1.0
+  newTag: '1.0'
